@@ -85,6 +85,8 @@ body {
   width: 193px;
   height: 178px;
   object-fit: cover;
+  margin-top: 10px;
+
 }
 
 .card-1 h2 {
@@ -129,6 +131,7 @@ body {
   width: 193px;
   height: 178px;
   object-fit: cover;
+  margin-top: 10px;
 }
 
 .card-2 h2 {
@@ -172,6 +175,8 @@ body {
   width: 193px;
   height: 178px;
   object-fit: cover;
+  margin-top: 10px;
+
 }
 
 .card-3 h2 {
@@ -215,6 +220,7 @@ body {
   width: 193px;
   height: 178px;
   object-fit: cover;
+  margin-top: 10px;
 }
 
 .card-4 h2 {
